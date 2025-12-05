@@ -1,0 +1,35 @@
+==================================
+ Power Ups Mask
+==================================
+00 = Nada
+01 = Super Planchazo
+02 = Doble Salto (Unused)
+03 = Super Planchazo + Doble Salto
+04 = Super Giro (Unused)
+05 = Super Planchazo + Super Giro (Unused)
+06 = Doble Salto + Super Giro (Unused)
+07 = Super Planchazo + Doble Salto + Super Giro
+08 = Bazuca (Unused)
+09 = Super Planchazo + Bazuca (Unused)
+0A = Doble Salto + Bazuca (Unused)
+0B = Planchazo + Doble Salto + Bazuca (Unused)
+0C = Super Giro + Bazuca (Unused)
+0D = Planchazo + Super Giro + Bazuca (Unused)
+0E = Doble Salto + Super Giro + Bazuca (Unused)
+0F = Planchazo + Doble Salto + Super Giro + Bazuca
+10 = Super Velocidad (Unused)
+11 = Planchazo + Super Velocidad (Unused)
+12 = Doble Salto + Super Velocidad (Unused)
+13 = Planchazo + Doble Salto + Super Velocidad (Unused)
+14 = Super Giro + Super Velocidad (Unused)
+15 = Planchazo + Super Giro + Super Velocidad (Unused)
+16 = Doble Salto + Super Giro + Super Velocidad (Unused)
+17 = Planchazo + Doble Salto + Super Giro + Super Velocidad (Unused)
+18 = Bazuca + Super Velocidad (Unused)
+19 = Planchazo + Bazuca + Super Velocidad (Unused)
+1A = Doble Salto + Bazuca + Super Velocidad (Unused)
+1B = Planchazo + Doble Salto + Bazuca + Super Velocidad (Unused)
+1C = Super Giro + Bazuca + Super Velocidad (Unused)
+1D = Planchazo + Super Giro + Bazuca + Super Velocidad (Unused)
+1E = Doble Salto + Super Giro + Bazuca + Super Velocidad (Unused)
+1F = Todos los poderes

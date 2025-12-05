@@ -1,0 +1,44 @@
+Nada = 00 00 00 00 00 00 00 00
+Todos los 25 Cristales principales = 7F FF FC 00 00 1D 00 00
+Todos los 39 Cristales Invalidos = 80 00 03 FF FF E2 FF FF
+Todos los 64 Cristales posibles = FF FF FF FF FF FF FF FF
+======================================
+           Warp Room 1
+======================================
+Toad Village = 00 00 08 00 00 00 00 00
+Under Preasure = 00 00 40 00 00 00 00 00
+Orient Express = 00 00 04 00 00 00 00 00
+Bone Yard = 00 00 10 00 00 00 00 00
+Makin Waves = 02 00 00 00 00 00 00 00
+======================================
+           Warp Room 2
+======================================
+Gee Wiz = 00 00 80 00 00 00 00 00
+Hang'em High = 00 40 00 00 00 00 00 00
+Hog Ride = 00 20 00 00 00 00 00 00
+Tomb Time = 00 04 00 00 00 00 00 00
+MidNight Run = 00 02 00 00 00 00 00 00
+======================================
+           Warp Room 3
+======================================
+Dino Might = 00 01 00 00 00 00 00 00
+Deep Trouble = 10 00 00 00 00 00 00 00
+High Time = 04 00 00 00 00 00 00 00
+Road Crash = 00 10 00 00 00 00 00 00
+Double Header = 20 00 00 00 00 00 00 00
+======================================
+           Warp Room 4
+======================================
+Sphynxinator = 40 00 00 00 00 00 00 00
+Bye Bye Blimps = 00 08 00 00 00 00 00 00
+Tell No Tales = 00 00 20 00 00 00 00 00
+Future Frenzy = 08 00 00 00 00 00 00 00
+Tomb Wader = 01 00 00 00 00 00 00 00
+======================================
+           Warp Room 5
+======================================
+Gone Tomorrow = 00 00 00 00 00 08 00 00
+Orange Asphalt = 00 00 00 00 00 01 00 00
+Flaming Passion = 00 00 00 00 00 04 00 00
+Mad Bombers = 00 80 00 00 00 00 00 00
+Bug Lite = 00 00 00 00 00 10 00 00
