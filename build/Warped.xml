@@ -1,0 +1,118 @@
+<iso_project image_name="mkpsxiso.bin" cue_sheet="mkpsxiso.cue">
+    <track type="data" xa_edc="true" new_type="false">
+        <identifiers system="PLAYSTATION" application="PLAYSTATION" volume="SCUS-94244" publisher="SCEA" copyright="UIS/NDI" creation_date="1998101113221200-19"/>
+        <license file="license_data.dat"/>
+        <default_attributes gmt_offs="36" xa_attrib="32" xa_perm="1365" xa_gid="0" xa_uid="0"/>
+        <directory_tree gmt_offs="-19">
+            <file name="SYSTEM.CNF" source="SYSTEM.CNF" type="data"/>
+            <file name="SCUS_942.44" source="SCUS_942.44" type="data"/>
+            <dir name="S0" source="S0"/>
+            <dir name="S1" source="S1"/>
+            <dir name="S2" source="S2"/>
+            <dir name="S3" source="S3">
+                <file name="S000003C.NSD" source="S3/S000003C.NSD" type="data"/>
+                <file name="S000003C.NSF" source="S3/S000003C.NSF" type="data"/>
+            </dir>
+            <dir name="S0">
+                <file name="WARPSCUS.BIN" source="S0/WARPSCUS.BIN" type="data"/>
+                <file name="S0000002.NSD" source="S0/S0000002.NSD" type="data"/>
+                <file name="S0000002.NSF" source="S0/S0000002.NSF" type="data"/>
+            </dir>
+            <dir name="S3">
+                <file name="S000003A.NSD" source="S3/S000003A.NSD" type="data"/>
+                <file name="S000003A.NSF" source="S3/S000003A.NSF" type="data"/>
+                <file name="S000003B.NSD" source="S3/S000003B.NSD" type="data"/>
+                <file name="S000003B.NSF" source="S3/S000003B.NSF" type="data"/>
+            </dir>
+            <dir name="S0">
+                <file name="S0000003.NSD" source="S0/S0000003.NSD" type="data"/>
+                <file name="S0000003.NSF" source="S0/S0000003.NSF" type="data"/>
+                <file name="S0000004.NSD" source="S0/S0000004.NSD" type="data"/>
+                <file name="S0000004.NSF" source="S0/S0000004.NSF" type="data"/>
+                <file name="S0000005.NSD" source="S0/S0000005.NSD" type="data"/>
+                <file name="S0000005.NSF" source="S0/S0000005.NSF" type="data"/>
+                <file name="S0000006.NSD" source="S0/S0000006.NSD" type="data"/>
+                <file name="S0000006.NSF" source="S0/S0000006.NSF" type="data"/>
+                <file name="S0000007.NSD" source="S0/S0000007.NSD" type="data"/>
+                <file name="S0000007.NSF" source="S0/S0000007.NSF" type="data"/>
+                <file name="S000000A.NSD" source="S0/S000000A.NSD" type="data"/>
+                <file name="S000000A.NSF" source="S0/S000000A.NSF" type="data"/>
+                <file name="S000000B.NSD" source="S0/S000000B.NSD" type="data"/>
+                <file name="S000000B.NSF" source="S0/S000000B.NSF" type="data"/>
+                <file name="S000000C.NSD" source="S0/S000000C.NSD" type="data"/>
+                <file name="S000000C.NSF" source="S0/S000000C.NSF" type="data"/>
+                <file name="S000000D.NSD" source="S0/S000000D.NSD" type="data"/>
+                <file name="S000000D.NSF" source="S0/S000000D.NSF" type="data"/>
+                <file name="S000000E.NSD" source="S0/S000000E.NSD" type="data"/>
+                <file name="S000000E.NSF" source="S0/S000000E.NSF" type="data"/>
+                <file name="S000000F.NSD" source="S0/S000000F.NSD" type="data"/>
+                <file name="S000000F.NSF" source="S0/S000000F.NSF" type="data"/>
+            </dir>
+            <dir name="S1">
+                <file name="S0000010.NSD" source="S1/S0000010.NSD" type="data"/>
+                <file name="S0000010.NSF" source="S1/S0000010.NSF" type="data"/>
+                <file name="S0000011.NSD" source="S1/S0000011.NSD" type="data"/>
+                <file name="S0000011.NSF" source="S1/S0000011.NSF" type="data"/>
+                <file name="S0000012.NSD" source="S1/S0000012.NSD" type="data"/>
+                <file name="S0000012.NSF" source="S1/S0000012.NSF" type="data"/>
+                <file name="S0000013.NSD" source="S1/S0000013.NSD" type="data"/>
+                <file name="S0000013.NSF" source="S1/S0000013.NSF" type="data"/>
+                <file name="S0000014.NSD" source="S1/S0000014.NSD" type="data"/>
+                <file name="S0000014.NSF" source="S1/S0000014.NSF" type="data"/>
+                <file name="S0000015.NSD" source="S1/S0000015.NSD" type="data"/>
+                <file name="S0000015.NSF" source="S1/S0000015.NSF" type="data"/>
+                <file name="S0000016.NSD" source="S1/S0000016.NSD" type="data"/>
+                <file name="S0000016.NSF" source="S1/S0000016.NSF" type="data"/>
+                <file name="S0000017.NSD" source="S1/S0000017.NSD" type="data"/>
+                <file name="S0000017.NSF" source="S1/S0000017.NSF" type="data"/>
+                <file name="S0000018.NSD" source="S1/S0000018.NSD" type="data"/>
+                <file name="S0000018.NSF" source="S1/S0000018.NSF" type="data"/>
+                <file name="S0000019.NSD" source="S1/S0000019.NSD" type="data"/>
+                <file name="S0000019.NSF" source="S1/S0000019.NSF" type="data"/>
+                <file name="S000001A.NSD" source="S1/S000001A.NSD" type="data"/>
+                <file name="S000001A.NSF" source="S1/S000001A.NSF" type="data"/>
+                <file name="S000001B.NSD" source="S1/S000001B.NSD" type="data"/>
+                <file name="S000001B.NSF" source="S1/S000001B.NSF" type="data"/>
+                <file name="S000001C.NSD" source="S1/S000001C.NSD" type="data"/>
+                <file name="S000001C.NSF" source="S1/S000001C.NSF" type="data"/>
+                <file name="S000001D.NSD" source="S1/S000001D.NSD" type="data"/>
+                <file name="S000001D.NSF" source="S1/S000001D.NSF" type="data"/>
+                <file name="S000001E.NSD" source="S1/S000001E.NSD" type="data"/>
+                <file name="S000001E.NSF" source="S1/S000001E.NSF" type="data"/>
+            </dir>
+            <dir name="S2">
+                <file name="S000001F.NSD" source="S2/S000001F.NSD" type="data"/>
+                <file name="S000001F.NSF" source="S2/S000001F.NSF" type="data"/>
+                <file name="S0000020.NSD" source="S2/S0000020.NSD" type="data"/>
+                <file name="S0000020.NSF" source="S2/S0000020.NSF" type="data"/>
+                <file name="S0000021.NSD" source="S2/S0000021.NSD" type="data"/>
+                <file name="S0000021.NSF" source="S2/S0000021.NSF" type="data"/>
+                <file name="S0000022.NSD" source="S2/S0000022.NSD" type="data"/>
+                <file name="S0000022.NSF" source="S2/S0000022.NSF" type="data"/>
+                <file name="S0000023.NSD" source="S2/S0000023.NSD" type="data"/>
+                <file name="S0000023.NSF" source="S2/S0000023.NSF" type="data"/>
+                <file name="S0000024.NSD" source="S2/S0000024.NSD" type="data"/>
+                <file name="S0000024.NSF" source="S2/S0000024.NSF" type="data"/>
+                <file name="S0000025.NSD" source="S2/S0000025.NSD" type="data"/>
+                <file name="S0000025.NSF" source="S2/S0000025.NSF" type="data"/>
+                <file name="S0000026.NSD" source="S2/S0000026.NSD" type="data"/>
+                <file name="S0000026.NSF" source="S2/S0000026.NSF" type="data"/>
+                <file name="S0000027.NSD" source="S2/S0000027.NSD" type="data"/>
+                <file name="S0000027.NSF" source="S2/S0000027.NSF" type="data"/>
+                <file name="S0000028.NSD" source="S2/S0000028.NSD" type="data"/>
+                <file name="S0000028.NSF" source="S2/S0000028.NSF" type="data"/>
+                <file name="S0000029.NSD" source="S2/S0000029.NSD" type="data"/>
+                <file name="S0000029.NSF" source="S2/S0000029.NSF" type="data"/>
+                <file name="S000002A.NSD" source="S2/S000002A.NSD" type="data"/>
+                <file name="S000002A.NSF" source="S2/S000002A.NSF" type="data"/>
+            </dir>
+            <dir name="DRAGON" source="DRAGON">
+                <file name="CDEMO.STR" source="DRAGON/CDEMO.STR" type="mixed"/>
+                <file name="SPYRO.EXE" source="DRAGON/SPYRO.EXE" type="data"/>
+                <file name="WAD.WAD" source="DRAGON/WAD.WAD" type="data"/>
+            </dir>
+            <file name="ZDUMMY." source="ZDUMMY." type="data"/>
+            <dummy sectors="150" type="0"/>
+        </directory_tree>
+    </track>
+</iso_project>

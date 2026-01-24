@@ -1,0 +1,6 @@
+Tiny = 00 00 00 40
+Dingodile = 00 00 00 08
+N.Trophy = 00 00 00 10
+N.Gin = 00 00 00 20
+Cortex = 00 00 00 80
+All Bosses = 00 00 00 F8

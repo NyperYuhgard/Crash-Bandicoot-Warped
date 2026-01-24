@@ -1,0 +1,23 @@
+Cutscene Portal
+00000000 = Aku Aku Time Twister Explication (Unused?)
+00000001 = Aku Aku Custscene If You Forget The Crystal First Time
+00000002 = Aku Aku Custscene If You Forget The Crystal Second Time
+00000003 = First Cortex Aparition
+00000004 = Tiny First Aparition
+00000005 = Tiny Second Aparition
+00000006 = Aku Aku Says If You Defeat Tiny Boss
+00000007 = Cortex Second Aparition
+00000008 = DingoDile First Aparition
+00000009 = DingoDile Second Aparition
+0000000A = N.Trophy First Aparition
+0000000B = N.Trophy Second Aparition
+0000000C = Cortex Third Aparition
+0000000D = N.Trophy Third Aparition
+0000000E = Cortex Fouth Aparition
+0000000F = N.Gin First Aparition
+00000010 = N.Gin Second Aparition
+00000011 = Cortex Fifth Aparition
+00000012 = Aku Aku Guyus Cutscene XD (Temp Name)
+00000013 = Cortex Six Aparition
+00000014 = Aku Aku Time Trial Explication
+FFFFFFFF = Default Value
