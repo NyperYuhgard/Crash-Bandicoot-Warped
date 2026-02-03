@@ -1,0 +1,38 @@
+00000300 = Dingodile (Boss) 
+00000400 = N. Tropy (Boss) 
+00000500 = N. Gin (Boss) 
+00000600 = Tiny Tiger (Boss) 
+00000700 = N. Cortex (Boss) 
+; ====================== 
+; Faltan 2 valores (0800, 0900) 
+; ====================== 
+00000a00 = Orient Express 
+00000b00 = Toad Village 
+00000c00 = Bone Yard 
+00000d00 = Tell No Tales 
+00000e00 = Under Pressure 
+00000f00 = Gee Wiz 
+00001000 = Dino Might! 
+00001100 = Midnight Run 
+00001200 = Tomb Time 
+00001300 = Bye Bye Blimps 
+00001400 = Road Crash 
+00001500 = Hog Ride 
+00001600 = Hang'em High 
+00001700 = Mad Bombers 
+00001800 = Tomb Wader 
+00001900 = Makin' Waves 
+00001a00 = High Time 
+00001b00 = Future Frenzy 
+00001c00 = Deep Trouble 
+00001d00 = Double Header 
+00001e00 = Sphynxinator 
+00001f00 = Rings Of Power 
+00002000 = Orange Asphalt 
+00002100 = Ski Crazed 
+00002200 = Flaming Passion 
+00002300 = Gone Tomorrow 
+00002400 = Bug Lite 
+00002500 = Area 51?
+00002600 = Eggipus Rex (Unused)
+00002700 = Hot Coco (Unused By Normal Methods)

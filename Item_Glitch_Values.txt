@@ -1,12 +1,12 @@
 200 Bounces = Nothing
 201 Bounces = Crystal ID Mask 00 00 00 01 00 00 00 00 (Not a Real Level)
 202 Bounces = Crystal ID Mask 00 00 00 02 00 00 00 00 (Not a Real Level)
-203 Bounces = Crystal ID Mask 00 00 00 04 00 00 00 00 (Not a Real Level)
-204 Bounces = Crystal ID Mask 00 00 00 08 00 00 00 00 (Not a Real Level)
-205 Bounces = Crystal ID Mask 00 00 00 10 00 00 00 00 (Not a Real Level)
-206 Bounces = Crystal ID Mask 00 00 00 20 00 00 00 00 (Not a Real Level)
-207 Bounces = Crystal ID Mask 00 00 00 40 00 00 00 00 (Not a Real Level)
-208 Bounces = Crystal ID Mask 00 00 00 80 00 00 00 00 (Not a Real Level)
+203 Bounces = Crystal ID Mask 00 00 00 04 00 00 00 00 (Warp Room)
+204 Bounces = Crystal ID Mask 00 00 00 08 00 00 00 00 (Dingodile Boss)
+205 Bounces = Crystal ID Mask 00 00 00 10 00 00 00 00 (N. Tropy Boss)
+206 Bounces = Crystal ID Mask 00 00 00 20 00 00 00 00 (N. Gin Boss)
+207 Bounces = Crystal ID Mask 00 00 00 40 00 00 00 00 (Tiny Tigger Boss)
+208 Bounces = Crystal ID Mask 00 00 00 80 00 00 00 00 (N. Cortex Boss)
 209 Bounces = Crystal ID Mask 00 00 01 00 00 00 00 00 (Not a Real Level)
 210 Bounces = Crystal ID Mask 00 00 02 00 00 00 00 00 (Not a Real Level)
 211 Bounces = Crystal ID Mask 00 00 04 00 00 00 00 00 (Orient Express)
@@ -20,22 +20,102 @@
 219 Bounces = Crystal ID Mask 00 04 00 00 00 00 00 00 (Tomb Time) 
 220 Bounces = Crystal ID Mask 00 08 00 00 00 00 00 00 (Bye Bye Blimps) 
 221 Bounces = Crystal ID Mask 00 10 00 00 00 00 00 00 (Road Crash) 
-222 Bounces = Crystal ID Mask
-223 Bounces = Crystal ID Mask
-224 Bounces = Crystal ID Mask
-225 Bounces = Crystal ID Mask
-226 Bounces = Crystal ID Mask
-227 Bounces = Crystal ID Mask
-228 Bounces = Crystal ID Mask
-229 Bounces = Crystal ID Mask
-230 Bounces = Crystal ID Mask
-231 Bounces = Crystal ID Mask
-232 Bounces = Crystal ID Mask
-233 Bounces = Crystal ID Mask
-234 Bounces = Crystal ID Mask
-235 Bounces = Crystal ID Mask
-236 Bounces = Crystal ID Mask
-237 Bounces = Crystal ID Mask
-238 Bounces = Crystal ID Mask
-239 Bounces = Crystal ID Mask
-240 Bounces = Crystal ID Mask
+222 Bounces = Crystal ID Mask 00 20 00 00 00 00 00 00 (Hog Ride)
+223 Bounces = Crystal ID Mask 00 40 00 00 00 00 00 00 (Hang'em High)
+224 Bounces = Crystal ID Mask 00 80 00 00 00 00 00 00 (Mad Bombers)
+225 Bounces = Crystal ID Mask 01 00 00 00 00 00 00 00 (Tomb Wader)
+226 Bounces = Crystal ID Mask 02 00 00 00 00 00 00 00 (Makin' Waves)
+227 Bounces = Crystal ID Mask 04 00 00 00 00 00 00 00 (High Time)
+228 Bounces = Crystal ID Mask 08 00 00 00 00 00 00 00 (Future Frenzy)
+229 Bounces = Crystal ID Mask 10 00 00 00 00 00 00 00 (Deep Trouble)
+230 Bounces = Crystal ID Mask 20 00 00 00 00 00 00 00 (Double Header)
+231 Bounces = Crystal ID Mask 40 00 00 00 00 00 00 00 (Sphynxinator)
+232 Bounces = Crystal ID Mask 80 00 00 00 00 00 00 00 (Rings Of Power)
+233 Bounces = Crystal ID Mask 00 00 00 00 00 00 00 01 (Orange Asphalt)
+234 Bounces = Crystal ID Mask 00 00 00 00 00 00 00 02 (Ski Crazed)
+235 Bounces = Crystal ID Mask 00 00 00 00 00 00 00 04 (Flaming Passion)
+236 Bounces = Crystal ID Mask 00 00 00 00 00 00 00 08 (Gone Tomorrow)
+237 Bounces = Crystal ID Mask 00 00 00 00 00 00 00 10 (Bug Lite)
+238 Bounces = Crystal ID Mask 00 00 00 00 00 00 00 20 (Area 51?)
+239 Bounces = Crystal ID Mask 00 00 00 00 00 00 00 40 (Eggipus Rex)
+240 Bounces = Crystal ID Mask 00 00 00 00 00 00 00 80 (Hot Coco)
+241 Bounces = Crystal ID Mask 00 00 00 00 00 00 01 00 (Not a Real Level)
+242 Bounces = Crystal ID Mask 00 00 00 00 00 00 02 00 (Not a Real Level)
+243 Bounces = Crystal ID Mask 00 00 00 00 00 00 04 00 (Not a Real Level)
+244 Bounces = Crystal ID Mask 00 00 00 00 00 00 08 00 (Not a Real Level)
+245 Bounces = Crystal ID Mask 00 00 00 00 00 00 10 00 (Not a Real Level)
+246 Bounces = Crystal ID Mask 00 00 00 00 00 00 20 00 (Not a Real Level)
+247 Bounces = Crystal ID Mask 00 00 00 00 00 00 40 00 (Not a Real Level)
+248 Bounces = Crystal ID Mask 00 00 00 00 00 00 80 00 (Not a Real Level)
+249 Bounces = Crystal ID Mask 00 00 00 00 00 01 00 00 (Not a Real Level)
+250 Bounces = Crystal ID Mask 00 00 00 00 00 02 00 00 (Not a Real Level)
+251 Bounces = Crystal ID Mask 00 00 00 00 00 04 00 00 (Not a Real Level)
+252 Bounces = Crystal ID Mask 00 00 00 00 00 08 00 00 (Not a Real Level)
+253 Bounces = Crystal ID Mask 00 00 00 00 00 10 00 00 (Not a Real Level)
+254 Bounces = Crystal ID Mask 00 00 00 00 00 20 00 00 (Not a Real Level)
+255 Bounces = Crystal ID Mask 00 00 00 00 00 40 00 00 (Not a Real Level)
+256 Bounces = Crystal ID Mask 00 00 00 00 00 80 00 00 (Not a Real Level)
+257 Bounces = Crystal ID Mask 00 00 00 00 01 00 00 00 (Not a Real Level)
+258 Bounces = Crystal ID Mask 00 00 00 00 02 00 00 00 (Not a Real Level)
+259 Bounces = Crystal ID Mask 00 00 00 00 04 00 00 00 (Not a Real Level)
+260 Bounces = Crystal ID Mask 00 00 00 00 08 00 00 00 (Not a Real Level)
+261 Bounces = Crystal ID Mask 00 00 00 00 10 00 00 00 (Not a Real Level)
+262 Bounces = Crystal ID Mask 00 00 00 00 20 00 00 00 (Not a Real Level)
+263 Bounces = Crystal ID Mask 00 00 00 00 40 00 00 00 (Not a Real Level)
+264 Bounces = Crystal ID Mask 00 00 00 00 80 00 00 00 (Not a Real Level)
+265 Bounces = Nothing
+266 Bounces = Nothing
+267 Bounces = Nothing
+268 Bounces = Nothing
+269 Bounces = Nothing
+270 Bounces = Nothing
+271 Bounces = Nothing
+272 Bounces = Nothing
+273 Bounces = Nothing
+274 Bounces = Nothing
+275 Bounces = Nothing
+276 Bounces = Nothing
+277 Bounces = Nothing
+278 Bounces = Nothing
+279 Bounces = Nothing
+280 Bounces = Nothing
+281 Bounces = Nothing
+282 Bounces = Nothing
+283 Bounces = Nothing
+284 Bounces = Nothing
+285 Bounces = Nothing
+286 Bounces = Nothing
+287 Bounces = Nothing
+288 Bounces = Nothing
+289 Bounces = Nothing
+290 Bounces = Nothing
+291 Bounces = Nothing
+292 Bounces = Nothing
+293 Bounces = Nothing
+294 Bounces = Nothing
+295 Bounces = Nothing
+296 Bounces = Nothing
+297 Bounces = Nothing
+298 Bounces = Nothing
+299 Bounces = Nothing
+300 Bounces = Nothing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
